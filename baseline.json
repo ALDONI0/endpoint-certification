@@ -1,0 +1,13 @@
+{
+  "MaxSignatureAgeDays": 7,
+  "MaxDaysSinceLastUpdate": 45,
+  "MinPasswordLength": 12,
+  "MaxLockoutThreshold": 10,
+  "MaxScreenLockSeconds": 900,
+  "MinFreeSpacePercent": 15,
+  "MaxUptimeDays": 14,
+  "BlockUsbStorage": false,
+  "AllowedLocalAdmins": ["soporte"],
+  "BlockedSoftware": ["uTorrent", "BitTorrent", "qBittorrent", "Vuze", "AnyDesk", "TeamViewer", "UltraViewer", "Ammyy"],
+  "RequiredSoftware": []
+}
